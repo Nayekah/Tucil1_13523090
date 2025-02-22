@@ -37,6 +37,18 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
    ```
 
 ###### Makefile
+1. Open a terminal
+2. Clone the repository
+      ```bash
+   https://github.com/Nayekah/Tucil1_13523090.git
+   ```
+3. Make Tucil1_13523090 as root directory
+4. Run the following command to start the application in CLI mode:
+   ```bash
+   cd tucil1
+   make run
+   ```
+   
 #### **2. Linux**
 1. Follow the same steps as above to download the JAR file.
 2. To run the application in GUI mode, use the following command:
