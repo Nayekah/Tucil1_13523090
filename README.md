@@ -74,7 +74,6 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
    make run
    ```
 
-<br/>
 ##### **- Graphical User Interface (GUI)**
 ###### Gradle
 1. Open a terminal
@@ -118,7 +117,6 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
    make run
    ```
 
-<br/>
 ##### **- Graphical User Interface (GUI)**
 ###### Gradle
 1. Open a terminal
