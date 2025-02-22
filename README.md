@@ -113,7 +113,7 @@ Here's a **Features** section you can add to your README:
 
 ---
 
-## ✨ Features
+## ✨ How to Use
 
 ### 1. **Linear System Solver**
    - Solve systems of linear equations using Gaussian elimination, Gauss-Jordan elimination, Cramer's rule, and matrix inversion methods.
@@ -147,6 +147,8 @@ Here's a **Features** section you can add to your README:
 - The input case is well-handled (but may have a small bug)
   
 ---
+
+## 📃 Miscellaneous
 | No | Points | Ya | Tidak |
 | --- | --- | --- | --- |
 | 1 | Program berhasil dikompilasi tanpa kesalahan | ✔️ | |
