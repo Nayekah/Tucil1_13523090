@@ -11,7 +11,7 @@
 
 ---
 ## 🔍 What Inside This Project?
-![Puzzle](https://m.media-amazon.com/images/I/61ALalScvjL.jpg)
+![Puzzle]([https://m.media-amazon.com/images/I/61ALalScvjL.jpg](https://m.media-amazon.com/images/S/aplus-media-library-service-media/d8e10a27-32d6-40c7-8ab4-638b3e3a86e1.__CR0,0,970,300_PT0_SX970_V1___.png))
 
 **IQ Puzzle Pro** is a board game produced by the Smart Games company. The objective of the game is for the player to fill the entire board with the available pieces (puzzle blocks).
 ### Game Components
