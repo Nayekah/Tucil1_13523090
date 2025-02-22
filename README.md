@@ -11,7 +11,7 @@
 
 ---
 
-## 📦 Installation & Usage
+## 📦 Installation & Setup
 
 ### Requirements
 - Git
