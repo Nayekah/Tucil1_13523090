@@ -19,15 +19,19 @@
 
 You can run the application in two modes: **Command-Line Interface (CLI)** or **Graphical User Interface (GUI)**.
 
-#### **1. Command-Line Interface (CLI) Mode**
+#### **1. Windows Mode**
+##### **Command Line Interface (CLI)**
+###### JAR
 1. **Download the JAR file** from the [releases page](https://github.com/l0stplains/Algeo01-23002/releases/download/v1/Algeo01-23002.jar).
-2. Open a terminal and navigate to the directory containing the downloaded JAR.
+2. Open a terminal
 3. Run the following command to start the application in CLI mode:
    ```bash
+   cd tucil1
    java -jar bin/tucil1.jar
    ```
 
-#### **2. Graphical User Interface (GUI) Mode**
+###### Makefile
+#### **2. Linux**
 1. Follow the same steps as above to download the JAR file.
 2. To run the application in GUI mode, use the following command:
    ```bash
