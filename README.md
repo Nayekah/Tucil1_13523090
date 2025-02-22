@@ -6,7 +6,7 @@
 ![CLI Demo](https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif)
 
 
-⚠️ **Note:** While most features are fully functional, some advanced features may still require further optimization and testing.
+⚠️ **Note:** This app is using pure brute force algorithm with some backtracking, may took some time to find the solution
 
 ---
 
