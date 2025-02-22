@@ -12,9 +12,10 @@
 ## 📦 Installation & Usage
 
 ### Requirements
+- Git
 - Java 21 or later
 - Gradle 8.5 or later
-- Any IDE
+- Any IDE (Vscode, Vim, Neovim, Sublime Text, etc)
 
 ### Running the Application
 
@@ -23,11 +24,14 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
 #### **1. Running on Windows**
 ##### **- Command Line Interface (CLI)**
 ###### JAR
-1. **Download the JAR file** from the [releases page](https://github.com/l0stplains/Algeo01-23002/releases/download/v1/Algeo01-23002.jar).
-2. Open a terminal
-3. Run the following command to start the application in CLI mode:
+1. Open a terminal
+2. Clone the repository
+      ```bash
+   https://github.com/Nayekah/Tucil1_13523090.git
+   ```
+3. Make Tucil1_13523090 as root directory
+4. Run the following command to start the application in CLI mode:
    ```bash
-   
    cd tucil1
    java -jar bin/tucil1.jar
    ```
