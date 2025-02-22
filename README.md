@@ -20,7 +20,7 @@
 The board serves as the playing area where all the puzzle blocks must be placed without any gaps or overlaps.
 
 #### 2. Blocks / Pieces
-Each puzzle block has a unique shape and must be arranged to completely fill the board. Players can rotate or mirror the blocks as needed.
+Each puzzle block has a unique shape and must be arranged to completely fill the board. Players can rotate or reflect the blocks as needed.
 
 ### Game Rules & Objective
 The game begins with an empty board. Players must strategically place each puzzle block, ensuring that:
