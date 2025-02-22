@@ -12,6 +12,16 @@
 ---
 ## 🔍 What Inside This Project?
 ![Puzzle](https://m.media-amazon.com/images/I/61ALalScvjL.jpg)
+
+**IQ Puzzle Pro** is a board game produced by the Smart Games company. The objective of the game is for the player to fill the entire board with the available pieces (puzzle blocks).
+The essential components of the IQ Puzzler Pro game consist of:
+      1. Board
+            The board is the main component that is the goal of the game where players must be able to fill the entire board area using the blocks that have been provided.
+      2. Blocks / Pieces
+             Blocks are the components that players use to fill the empty board until it is completely filled. Each block has a unique shape and all blocks must be used to complete the puzzle. 
+
+The game starts with an empty board. Players can place puzzle blocks in such a way that no blocks overlap (except in the case of 3D). Each puzzle block can be rotated or mirrored. The puzzle is complete if and only if the board is filled and all the puzzle blocks are successfully placed.
+This project aims to find just one solution of the IQ Puzzler Pro game using the Brute Force algorithm, or display that a solution is not found if there are no possible solutions to the puzzle.
 ---
 
 ## 📦 Installation & Setup
