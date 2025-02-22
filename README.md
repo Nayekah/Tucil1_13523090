@@ -140,7 +140,7 @@ This page is intentionally left blank
 
 ## ✨ How to Use
 
-[![cliimage](https://raw.githubusercontent.com/Nayekah/Tucil1_13523090/main/tucil1/etc/clithumbnail.png)](https://raw.githubusercontent.com/Nayekah/Tucil1_13523090/main/tucil1/etc/cli.mp4)
+[!cligif](https://raw.githubusercontent.com/Nayekah/Tucil1_13523090/main/tucil1/etc/cli.gif)
 
 
 ### 1. **Linear System Solver**
