@@ -185,7 +185,9 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
 | 8 | Program dapat menyelesaikan kasus konfigurasi Piramida (3D) | | ✔️ |
 | 9 | Program dibuat oleh saya sendiri | ✔️ | |
 
-___
+<br/>
+<br/>
+
 <div align="center">
 Nayaka Ghana Subrata • © 2025 • 13523090
 </div>
