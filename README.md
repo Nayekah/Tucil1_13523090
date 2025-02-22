@@ -22,7 +22,7 @@
 
 You can run the application in two modes: **Command-Line Interface (CLI)** or **Graphical User Interface (GUI)**.
 
-#### **1. Running on Windows**
+#### **1. Windows**
 ##### **- Command Line Interface (CLI)**
 ###### JAR
 1. Open a terminal
