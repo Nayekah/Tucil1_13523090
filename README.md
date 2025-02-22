@@ -13,7 +13,7 @@
 
 ### Requirements
 - Java 21 or later
-- Gradle 8.5 or later (if building from source)
+- Gradle 8.5 or later
 
 ### Running the Application
 
