@@ -144,7 +144,7 @@ Here's a **Features** section you can add to your README:
 
 ## 📝 Notes & Limitations
 - The program may took several time to search for a solution
-- The input case is well-handled (but may have a small bug)
+- The input case is well-handled (but may have some small bug)
   
 ---
 
