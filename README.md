@@ -48,7 +48,8 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
    cd tucil1
    make run
    ```
-   
+---
+
 #### **2. Linux**
 ##### **- Command Line Interface (CLI)**
 ###### JAR
