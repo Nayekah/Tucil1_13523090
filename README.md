@@ -142,18 +142,21 @@ This page is intentionally left blank
 
 ### Command Line Interface (CLI)
 ![cligif](https://raw.githubusercontent.com/Nayekah/Tucil1_13523090/main/tucil1/etc/cli.gif)
+
 <br/>
 <br/>
 <br/>
 <br/>
 
 ### Graphic User Interface (GUI)
-<br/>
-<br/>
 
 #### Manual Input
 ![gmanual](https://raw.githubusercontent.com/Nayekah/Tucil1_13523090/main/tucil1/etc/guimanual.gif)
 
+<br/>
+<br/>
+
+![gload](https://raw.githubusercontent.com/Nayekah/Tucil1_13523090/main/tucil1/etc/guiload.gif)
 
 ---
 
