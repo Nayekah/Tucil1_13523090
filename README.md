@@ -14,18 +14,20 @@
 ### Requirements
 - Java 21 or later
 - Gradle 8.5 or later
+- Any IDE
 
 ### Running the Application
 
 You can run the application in two modes: **Command-Line Interface (CLI)** or **Graphical User Interface (GUI)**.
 
-#### **1. Windows Mode**
+#### **1. Running on Windows**
 ##### **- Command Line Interface (CLI)**
 ###### JAR
 1. **Download the JAR file** from the [releases page](https://github.com/l0stplains/Algeo01-23002/releases/download/v1/Algeo01-23002.jar).
 2. Open a terminal
 3. Run the following command to start the application in CLI mode:
    ```bash
+   
    cd tucil1
    java -jar bin/tucil1.jar
    ```
