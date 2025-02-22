@@ -28,7 +28,7 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
 1. Open a terminal
 2. Clone the repository
       ```bash
-   https://github.com/Nayekah/Tucil1_13523090.git
+   git clone https://github.com/Nayekah/Tucil1_13523090.git
    ```
 3. Make Tucil1_13523090 as root directory
 4. Run the following command to start the application in CLI mode:
@@ -41,7 +41,7 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
 1. Open a terminal
 2. Clone the repository
       ```bash
-   https://github.com/Nayekah/Tucil1_13523090.git
+   git clone https://github.com/Nayekah/Tucil1_13523090.git
    ```
 3. Make Tucil1_13523090 as root directory
 4. Run the following command to start the application in CLI mode:
@@ -55,7 +55,7 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
 1. Open a terminal
 2. Clone the repository
       ```bash
-   https://github.com/Nayekah/Tucil1_13523090.git
+   git clone https://github.com/Nayekah/Tucil1_13523090.git
    ```
 3. Make Tucil1_13523090 as root directory
 4. Run the following command to start the application in CLI mode:
@@ -71,7 +71,7 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
 1. Open a terminal
 2. Clone the repository
       ```bash
-   https://github.com/Nayekah/Tucil1_13523090.git
+   git clone https://github.com/Nayekah/Tucil1_13523090.git
    ```
 3. Make Tucil1_13523090 as root directory
 4. Run the following command to start the application in CLI mode:
@@ -84,7 +84,7 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
 1. Open a terminal
 2. Clone the repository
       ```bash
-   https://github.com/Nayekah/Tucil1_13523090.git
+   git clone https://github.com/Nayekah/Tucil1_13523090.git
    ```
 3. Make Tucil1_13523090 as root directory
 4. Run the following command to start the application in CLI mode:
@@ -98,7 +98,7 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
 1. Open a terminal
 2. Clone the repository
       ```bash
-   https://github.com/Nayekah/Tucil1_13523090.git
+   git clone https://github.com/Nayekah/Tucil1_13523090.git
    ```
 3. Make Tucil1_13523090 as root directory
 4. Run the following command to start the application in CLI mode:
