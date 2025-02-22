@@ -145,6 +145,10 @@ This page is intentionally left blank
 
 ### Graphic User Interface (GUI)
 
+#### Manual Input
+![gmanual](https://raw.githubusercontent.com/Nayekah/Tucil1_13523090/main/tucil1/etc/guimanual.gif)
+
+
 ---
 
 
