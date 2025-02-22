@@ -140,32 +140,10 @@ This page is intentionally left blank
 
 ## ✨ How to Use
 
+### Command Line Interface (CLI)
 ![cligif](https://raw.githubusercontent.com/Nayekah/Tucil1_13523090/main/tucil1/etc/cli.gif)
 
-
-### 1. **Linear System Solver**
-   - Solve systems of linear equations using Gaussian elimination, Gauss-Jordan elimination, Cramer's rule, and matrix inversion methods.
-
-### 2. **Matrix Operations**
-   - Perform operations such as matrix multiplication, transposition, finding the determinant, and calculating the inverse of matrices.
-
-### 3. **Regression Analysis**
-   - Supports both **Multiple Linear Regression** and **Quadratic Regression** for data analysis.
-
-### 4. **Interpolation**
-   - Polynomial interpolation and **Bicubic Spline Interpolation** for estimating values between data points.
-
-### 5. **Graphical User Interface (GUI)**
-   - An intuitive GUI for easier interaction with the library, allowing users to perform operations without needing to use the command line.
-
-### 6. **Command-Line Interface (CLI)**
-   - A fully-featured CLI for power users who prefer or need to interact with the application through terminal commands.
-
-### 7. **Image Resizing and Stretching**
-   - Resize images using **Bicubic Spline Interpolation**, improving image quality and scaling.
-
-### 8. **Extensive Error Handling**
-   - Handles invalid inputs and matrix dimension mismatches gracefully with detailed error messages.
+### Graphic User Interface (GUI)
 
 ---
 
