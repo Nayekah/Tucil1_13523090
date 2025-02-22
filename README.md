@@ -143,9 +143,8 @@ Here's a **Features** section you can add to your README:
 
 
 ## 📝 Notes & Limitations
-- This release (v1.0) includes the first iteration of the GUI, which is fully functional for most features.
-- Matrix operations involving larger matrices may still be slower than desired.
-- Bicubic Spline Interpolation and image resizing functionality have been added.
+- The program may took several time to search for a solution
+- The input case is well-handled (but may have a small bug)
   
 ---
 | No | Points | Ya | Tidak |
