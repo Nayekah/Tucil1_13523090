@@ -147,3 +147,5 @@ Here's a **Features** section you can add to your README:
 - Bicubic Spline Interpolation and image resizing functionality have been added.
   
 ---
+
+##### Nayaka Ghana Subrata (13523090)
