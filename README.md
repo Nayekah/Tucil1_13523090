@@ -132,7 +132,7 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
    ```
 ---
 
-Here's a **Features** section you can add to your README:
+**This page is intentionally left blank**
 
 ---
 
