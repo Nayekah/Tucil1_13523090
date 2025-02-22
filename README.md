@@ -132,7 +132,9 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
    ```
 ---
 
+<div align="center">
 **This page is intentionally left blank**
+</div>
 
 ---
 
