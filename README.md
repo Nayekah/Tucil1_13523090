@@ -49,6 +49,20 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
    cd tucil1
    make run
    ```
+
+##### **- Graphical User Interface (GUI)**
+###### Gradle
+1. Open a terminal
+2. Clone the repository
+      ```bash
+   https://github.com/Nayekah/Tucil1_13523090.git
+   ```
+3. Make Tucil1_13523090 as root directory
+4. Run the following command to start the application in CLI mode:
+   ```bash
+   cd tucil1
+   gradlew.bat run
+   ```
 ---
 
 #### **2. Linux**
@@ -79,6 +93,19 @@ You can run the application in two modes: **Command-Line Interface (CLI)** or **
    make run
    ```
 
+##### **- Graphical User Interface (GUI)**
+###### Gradle
+1. Open a terminal
+2. Clone the repository
+      ```bash
+   https://github.com/Nayekah/Tucil1_13523090.git
+   ```
+3. Make Tucil1_13523090 as root directory
+4. Run the following command to start the application in CLI mode:
+   ```bash
+   cd tucil1
+   ./gradlew run
+   ```
 ---
 
 Here's a **Features** section you can add to your README:
