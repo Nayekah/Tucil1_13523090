@@ -20,7 +20,7 @@
 You can run the application in two modes: **Command-Line Interface (CLI)** or **Graphical User Interface (GUI)**.
 
 #### **1. Windows Mode**
-##### **Command Line Interface (CLI)**
+##### **- Command Line Interface (CLI)**
 ###### JAR
 1. **Download the JAR file** from the [releases page](https://github.com/l0stplains/Algeo01-23002/releases/download/v1/Algeo01-23002.jar).
 2. Open a terminal
