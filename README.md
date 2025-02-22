@@ -11,7 +11,7 @@
 
 ---
 ## 🔍 What Inside This Project?
-
+![Puzzle](https://m.media-amazon.com/images/I/61ALalScvjL.jpg)
 ---
 
 ## 📦 Installation & Setup
