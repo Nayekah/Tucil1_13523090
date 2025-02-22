@@ -140,6 +140,9 @@ This page is intentionally left blank
 
 ## ✨ How to Use
 
+[![cliimage][(https://github.com/user-attachments/assets/aca30435-79a6-4c0b-a263-9b1bb298bf98)](https://raw.githubusercontent.com/Nayekah/Tucil_13523090/main/tucil1/etc/clithumbnail.png)]
+
+
 ### 1. **Linear System Solver**
    - Solve systems of linear equations using Gaussian elimination, Gauss-Jordan elimination, Cramer's rule, and matrix inversion methods.
 
