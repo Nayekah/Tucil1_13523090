@@ -1,0 +1,9 @@
+Solution:
+AAADDEEG
+FFABDDEG
+FCABBDEG
+HCCJBIIG
+HHCJBIII
+
+Time taken: 110119 ms
+Iterations: 128081907 times
