@@ -165,7 +165,7 @@ This page is intentionally left blank
 ## 📝 Notes & Limitations
 - The program may took several time to search for a solution
 - The input case is well-handled (but may have some small bug)
-- You can save the solution to .txt or .png file
+- You can save the solution to .txt or .png file and will be saved in .../Tucil1_13523090/tucil1/test/output/
   
 ---
 
