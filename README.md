@@ -168,6 +168,7 @@ This page is intentionally left blank
 - The input case is well-handled (but may have some small bug)
 - If you want to try it on CLI, make sure that the input file is in  .../Tucil1_13523090/tucil1/test/input/ (if you use GUI, the input file locations doesn't matter). Make sure that the file is in .txt
 - You can save the solution to .txt or .png file and will be saved in .../Tucil1_13523090/tucil1/test/output/
+- To generate input file, please refer to .../Tucil1_13523090/tucil1/test/input/format.txt
   
 ---
 
