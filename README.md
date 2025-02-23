@@ -13,7 +13,7 @@
 ## 🔍 What Inside This Project?
 ![Puzzle](https://m.media-amazon.com/images/I/61ALalScvjL.jpg)
 
-**IQ Puzzle Pro** is a board game produced by the Smart Games company. The objective of the game is for the player to fill the entire board with the available pieces (puzzle blocks).
+**IQ Puzzler Pro** is a board game produced by the Smart Games company. The objective of the game is for the player to fill the entire board with the available pieces (puzzle blocks).
 ### Game Components
 
 #### 1. Board
