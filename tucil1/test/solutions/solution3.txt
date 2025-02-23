@@ -1,0 +1,9 @@
+Solution:
+AAAAA
+ACCCA
+AACCA
+BCCCA
+BBCAA
+
+Time taken: 5 ms
+Iterations: 79 times
