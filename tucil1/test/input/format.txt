@@ -1,0 +1,28 @@
+Format:
+N M P
+S
+puzzle_1_shape
+puzzle_2_shape
+…
+puzzle_P_shape
+
+
+
+Example:
+5 5 7
+DEFAULT
+A
+AA
+B
+BB
+C
+CC
+D
+DD
+EE
+EE
+E
+FF
+FF
+F
+GGG
