@@ -1,0 +1,9 @@
+Solution:
+AAADDEE
+GIACDDE
+GIACCDE
+GIBBCFF
+GHHBBBF
+
+Time taken: 6432 ms
+Iterations: 7517977 times
