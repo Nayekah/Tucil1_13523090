@@ -39,6 +39,7 @@ This project aims to find a valid solution to the IQ Puzzler Pro game using the 
 ### Requirements
 - Git
 - Java 21 or later
+- Javafx
 - Gradle 8.5 or later
 - Any IDE (Vscode, Vim, Neovim, Sublime Text, etc)
 
