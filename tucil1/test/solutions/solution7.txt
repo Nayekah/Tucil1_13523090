@@ -1,0 +1,9 @@
+Solution:
+AAABBGGGG
+EEAIBBBFF
+ECAIIHDDF
+ECCIIHHDD
+JJCKKKKKD
+
+Time taken: 274861 ms
+Iterations: 290872774 times
