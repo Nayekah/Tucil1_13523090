@@ -1,0 +1,9 @@
+Solution:
+GGGEE
+FFAEE
+FFAAE
+BFDCC
+BBDDC
+
+Time taken: 17237 ms
+Iterations: 32186382 times
