@@ -1,0 +1,9 @@
+Solution:
+BDDEE
+BBDDE
+ABCDE
+ABCCF
+AAACF
+
+Time taken: 61 ms
+Iterations: 31444 times
