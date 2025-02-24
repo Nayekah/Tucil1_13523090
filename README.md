@@ -1,6 +1,6 @@
 # Tucil1_13523090 - IQ Puzzle Solver
 
-![CLI Demo](https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif)
+![bocchi](https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif)
 
 
 📌 **Note:** This App can run in both **Command Line Interface (CLI)** and **Graphic User Interface (GUI)** ₍^. .^₎⟆
