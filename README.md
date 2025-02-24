@@ -205,8 +205,6 @@ Tucil1_13523090/
 │ │ ├── Pair.java
 │ │ ├── Piece.java
 │ │ ├── PuzzleSolverGUI.java
-Tugas Kecil 1 - 13523090
-IF - 2211 Strategi Algoritma 8
 │ │ └── Solve.java
 │ ├── test/
 │ │ ├── input/
