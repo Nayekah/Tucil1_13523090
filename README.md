@@ -171,7 +171,79 @@ This page is intentionally left blank
 - To generate input file, please refer to .../Tucil1_13523090/tucil1/test/input/format.txt
   
 ---
-
+## 📱 Repository Structure
+```
+Tucil1_13523090/
+├── .vscode/
+│ └── settings.json
+├── tucil1/
+│ ├── bin/
+│ │ ├── tucil1/src/
+│ │ │ ├── Board$PieceOperation.class
+│ │ │ ├── Board.class
+│ │ │ ├── InputReader.class
+│ │ │ ├── Main.class
+│ │ │ ├── Pair.class
+│ │ │ ├── Piece.class
+│ │ │ └── Solve.class
+│ │ ├── gradle-wrapper.jar
+│ │ └── tucil1.jar
+│ ├── doc/
+│ │ └── Tucil1_K2_13523090_Nayaka Ghana Subrata.pdf
+│ ├── etc/
+│ │ ├── cli.gif
+│ │ ├── guiload.gif
+│ │ └── guimanual.gif
+│ ├── gradle/
+│ │ └── wrapper/
+│ │ ├── gradle-wrapper.jar
+│ │ └── gradle-wrapper.properties
+│ ├── src/
+│ │ ├── Board.java
+│ │ ├── InputReader.java
+│ │ ├── Main.java
+│ │ ├── Pair.java
+│ │ ├── Piece.java
+│ │ ├── PuzzleSolverGUI.java
+Tugas Kecil 1 - 13523090
+IF - 2211 Strategi Algoritma 8
+│ │ └── Solve.java
+│ ├── test/
+│ │ ├── input/
+│ │ │ ├── 1.txt
+│ │ │ ├── 2.txt
+│ │ │ ├── 3.txt
+│ │ │ ├── 4.txt
+│ │ │ ├── 5.txt
+│ │ │ ├── 6.txt
+│ │ │ ├── 7.txt
+│ │ │ └── 8.txt
+│ │ └── solutions/
+│ │ ├── solution1.png
+│ │ ├── solution1.txt
+│ │ ├── solution2.png
+│ │ ├──solution 2.txt
+│ │ ├── solution3.png
+│ │ ├── solution 3.txt
+│ │ ├── solution4.png
+│ │ ├── solution4.txt
+│ │ ├── solution5.png
+│ │ ├── solution5.txt
+│ │ ├── solution6.png
+│ │ ├── solution6.txt
+│ │ ├── solution7.png
+│ │ ├── solution 7.txt
+│ │ ├── solution8.png
+│ │ └── solution8.txt
+│ ├── Makefile
+│ ├── build.gradle
+│ ├── gradlew
+│ ├── gradlew.bat
+│ ├── manifest.txt
+│ └── settings.gradle
+└── README.md
+```
+---
 ## 📃 Miscellaneous
 | No | Points | Yes | No |
 | --- | --- | --- | --- |
